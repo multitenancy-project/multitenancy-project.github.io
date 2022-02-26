@@ -1,6 +1,9 @@
-title: Menshen: Homepage
-layout: page
 ---
+title: "Menshen: Homepage"
+layout: page
+type: homepage
+---
+
 # Menshen: An Isolation Mechanism for High-Speed Packet-Processing Pipelines
 
 Thank you for your interest in our work. We are currently preparing the final
