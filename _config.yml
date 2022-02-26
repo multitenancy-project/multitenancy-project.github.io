@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Menshen
+description: An isolation framework for high-performance programmable networks
+url: "https://isolation.quest"
+baseurl: "/"
