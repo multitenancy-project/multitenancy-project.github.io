@@ -34,7 +34,8 @@ url: "https://isolation.quest" # the base hostname & protocol for your site, e.g
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
-#plugins:
+plugins:
+  - jekyll-seo-tag
 #- jekyll-feed
 
 

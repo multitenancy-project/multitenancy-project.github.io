@@ -35,7 +35,7 @@ Indexing or reading the associated configuration for each packet only needs 2 cy
 Menshen leverages daisy chain to enable disruption-free reconfiguration. The basic idea is to have another reconfiguration path for the reconfiguraiton signals.
 
 ## Publication
-**Isolation Mechanisms for High-Speed Packet-Processing Pipelines** [[Paper and Talk](https://www.usenix.org/conference/nsdi22/presentation/wang-tao)] <br />
+**Isolation Mechanisms for High-Speed Packet-Processing Pipelines** [[Paper](./pdfs/menshen_nsdi.pdf)] [[Talk](https://www.usenix.org/conference/nsdi22/presentation/wang-tao)] <br />
 Tao Wang, Xiangrui Yang, [Gianni Antichi](https://gianniantichi.github.io/), [Anirudh Sivaraman](https://cs.nyu.edu/~anirudh/), and [Aurojit Panda](https://cs.nyu.edu/~apanda/)
 
 ## Artifact
